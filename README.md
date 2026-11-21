@@ -1,2 +1,5 @@
-# bleeding-all-banks-quiz
-Bleeding Disorders · All Banks · Quiz
+# Bleeding Disorders · All Banks · Quiz
+
+كويز تفاعلي — ملف HTML واحد، بيفتح على أي موبايل أو كمبيوتر.
+
+اللينك: شوف **About → Website** في الريبو ده.
